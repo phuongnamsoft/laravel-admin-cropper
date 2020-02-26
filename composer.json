@@ -1,14 +1,18 @@
 {
-    "name": "laravel-admin-ext/cropper",
+    "name": "phuongnamsoft/laravel-admin-cropper",
     "description": "Integrate Cropper into laravel-admin",
     "type": "library",
-    "keywords": ["laravel-admin", "extension","cropper","image"],
-    "homepage": "https://github.com/laravel-admin-extensions/cropper",
+    "keywords": ["laravel-admin", "extension","cropper","image","english"],
+    "homepage": "https://github.com/phuongnamsoft/laravel-admin-cropper",
     "license": "MIT",
     "authors": [
         {
             "name": "EVA09",
             "email": "940173803@qq.com"
+        },
+        {
+            "name": "Nam Nguyen",
+            "email": "phuongnam@phuongnam.org"
         }
     ],
     "require": {
